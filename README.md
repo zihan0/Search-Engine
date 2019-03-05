@@ -16,25 +16,24 @@ As for scoring, BM25Similarity is slightly better than TFIDFSimilarity.
 
 -Evaluation on the Search Results
 The evaluation results without cutoff is pasted below.
-runid                 		all	STANDARD
-num_q                 		all	225
-num_ret               		all	193043
-num_rel               		all	1837
-num_rel_ret           		all	1736
-map                   		all	0.3992
-gm_map                		all	0.2724
-Rprec                 		all	0.3738
-bpref                 		all	0.9471
-recip_rank            		all	0.7897
-iprec_at_recall_0.00  	all	0.8050
-iprec_at_recall_0.10  	all	0.7699
-iprec_at_recall_0.20  	all	0.6630
-iprec_at_recall_0.30  	all	0.5593
-iprec_at_recall_0.40  	all	0.4587
-iprec_at_recall_0.50  	all	0.4039
-iprec_at_recall_0.60  	all	0.3065
-iprec_at_recall_0.70  	all	0.2529
-iprec_at_recall_0.80  	all	0.1832
-iprec_at_recall_0.90  	all	0.1341
-iprec_at_recall_1.00  	all	0.1187
-
+<br>runid                 		all	STANDARD</br>
+<br>num_q                 		all	225</br>
+<br>num_ret               		all	193043</br>
+<br>num_rel               		all	1837</br>
+<br>num_rel_ret           		all	1736</br>
+<br>map                   		all	0.3992</br>
+<br>gm_map                		all	0.2724</br>
+<br>Rprec                 		all	0.3738</br>
+<br>bpref                 		all	0.9471</br>
+<br>recip_rank            		all	0.7897</br>
+<br>iprec_at_recall_0.00  	all	0.8050</br>
+<br>iprec_at_recall_0.10  	all	0.7699</br>
+<br>iprec_at_recall_0.20  	all	0.6630</br>
+<br>iprec_at_recall_0.30  	all	0.5593</br>
+<br>iprec_at_recall_0.40  	all	0.4587</br>
+<br>iprec_at_recall_0.50  	all	0.4039</br>
+<br>iprec_at_recall_0.60  	all	0.3065</br>
+<br>iprec_at_recall_0.70  	all	0.2529</br>
+<br>iprec_at_recall_0.80  	all	0.1832</br>
+<br>iprec_at_recall_0.90  	all	0.1341</br>
+<br>iprec_at_recall_1.00  	all	0.1187</br>
